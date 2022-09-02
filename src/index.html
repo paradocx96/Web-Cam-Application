@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <title>WebCam Application</title>
+
+    <link href="./styles.css" rel="stylesheet">
+</head>
+
+<body>
+    <center>
+        <div>
+            <video id="vid"></video>
+        </div>
+        <br />
+        <button id="but" autoplay>Open-WebCam</button>
+    </center>
+
+    
+  <script src="./webcam.js"></script>
+</body>
+
+</html>
