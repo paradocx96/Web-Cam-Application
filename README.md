@@ -30,4 +30,4 @@ npm run make
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
