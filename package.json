@@ -1,6 +1,6 @@
 {
   "name": "web-cam-application",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Web Cam Application build with Electron JS",
   "main": "src/main.js",
   "scripts": {
